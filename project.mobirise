@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Новый майнинг магазин-clone-clone-clone-clone-clone",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "storem4",
       "title": "StoreM4",
@@ -18,7 +18,7 @@
         "display2Font": "Poppins",
         "display2Size": 3,
         "display5Font": "Comfortaa",
-        "display5Size": "1.4",
+        "display5Size": "1.6",
         "display7Font": "Comfortaa",
         "display7Size": 1.1,
         "display4Font": "Poppins",
