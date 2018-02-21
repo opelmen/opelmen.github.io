@@ -1483,6 +1483,9 @@ body {
 .cid-qKgWaDNOLC .btn:focus {
   box-shadow: none;
 }
+.cid-qKgWaDNOLC .mbr-gallery-item > div > span {
+  text-align: center;
+}
 .cid-qKhH4piHrk {
   padding-top: 90px;
   padding-bottom: 90px;
