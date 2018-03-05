@@ -32,7 +32,7 @@
       ]
     },
     "versionFirst": "4.6.2",
-    "uniqCompNum": 29,
+    "uniqCompNum": 36,
     "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -383,6 +383,42 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-2018-03-05-12.45.51-548x496.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-03-05-12.45.51-548x496-548x496.png",
+                "alt": "",
+                "customStyle1": "display-5",
+                "caption": "<p><a href=\"page1.html#shop6-i\"></a><a href=\"page1.html#shop6-i\" class=\"text-black\">В</a>&nbsp;<a href=\"page1.html#shop6-i\" class=\"text-black\">магазин</a></p>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-2018-03-05-12.54.53-739x665.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-03-05-12.54.53-739x665-739x665.png",
+                "alt": "",
+                "customStyle1": "display-5",
+                "caption": "<p><a href=\"page1.html#shop6-i\"></a><a href=\"page1.html#shop6-i\" class=\"text-black\">В</a>&nbsp;<a href=\"page1.html#shop6-i\" class=\"text-black\">магазин</a></p>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-2018-03-05-12.45.25-493x451.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-03-05-12.45.25-493x451-493x451.png",
+                "alt": "",
+                "customStyle1": "display-5",
+                "caption": "<p><a href=\"page1.html#shop6-i\"></a><a href=\"page1.html#shop6-i\" class=\"text-black\">В</a>&nbsp;<a href=\"page1.html#shop6-i\" class=\"text-black\">магазин</a></p>",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/shes1-green-870x768.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/shes1-green-870x768-800x706.jpg",
                 "alt": "",
@@ -455,18 +491,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mol-blue-867x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mol-blue-867x768-800x708.jpg",
-                "alt": "",
-                "customStyle1": "display-5",
-                "caption": "<a href=\"page1.html#shop6-i\">В магазин</a>",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/molgeo-yellow-867x768.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/molgeo-yellow-867x768-800x708.jpg",
                 "alt": "",
@@ -493,30 +517,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/eko-green-869x768.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/eko-green-869x768-800x707.jpg",
-                "alt": "",
-                "customStyle1": "display-5",
-                "caption": "<a href=\"page1.html#shop6-i\">В магазин</a>",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/blue-1-869x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/blue-1-869x768-800x707.jpg",
-                "alt": "",
-                "customStyle1": "display-5",
-                "caption": "<a href=\"page1.html#shop6-i\">В магазин</a>",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/az-5-870x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/az-5-870x768-800x706.jpg",
                 "alt": "",
                 "customStyle1": "display-5",
                 "caption": "<a href=\"page1.html#shop6-i\">В магазин</a>",
@@ -2240,19 +2240,19 @@
                 "onSale": false,
                 "oldPrice": true,
                 "itemTitle": "Бизидом \"Маленький\"&nbsp;",
-                "itemDescription": "<p>Состоит из шести модулей:</p><p><br></p><p>Четыре стандартных стенки</p><p><br></p><p>Модуль \"Открыватель\" - Дверки с различными замочками</p><p>Модуль \"Исследователь\" - Шестерёнки, вращающиеся карточки, лампочка с розеткой и выключателем</p><p>Модуль \"Первопроходец\" - Лабиринты различной сложности</p><p>Модуль \"Дизайнер\" - Застежки, шнурки, пуговицы - всё, что научит Вашего малыша одеваться самостоятельно</p><p><br></p><p>И два из четырех модулей крыши на выбор</p><p><br></p><p>Модуль \"Математик\" - Математический планшет для рисования резиночками. Невероятно развивает фантазию</p><p>Модуль \"Художник\" - Меловая доска для рисования. Набор мелков в комплекте</p><p>Модуль \"Часовщик\" - Часы и геометрический сортер</p><p>Модуль \"Счетовод\" - Большой логический сортировщик с цифрами и фигурами</p>",
+                "itemDescription": "<p>Размеры &nbsp;35*35*50</p><p>Четыре стандартных стенки:<br></p><p>Модуль \"Открыватель\" - Дверки с различными замочками</p><p>Модуль \"Исследователь\" - Шестерёнки, вращающиеся карточки, лампочка с розеткой и выключателем</p><p>Модуль \"Первопроходец\" - Лабиринты различной сложности</p><p>Модуль \"Дизайнер\" - Застежки, шнурки, пуговицы - всё, что научит Вашего малыша одеваться самостоятельно</p><p><br></p><p>И два из четырех модулей крыши на выбор:</p><p>Модуль \"Математик\" - Математический планшет для рисования резиночками. Невероятно развивает фантазию</p><p>Модуль \"Часовщик\" - Часы и геометрический сортер</p><p>Модуль \"Счетовод\" - Большой логический сортировщик с цифрами и фигурами</p>",
                 "itemPriceTitle": "From: ",
                 "itemPrice": "5990 руб",
                 "oldPriceValue": "&nbsp;7390 руб",
                 "sale": "-50%",
                 "button": "<a data-app-btn=\"true\" href=\"index.html#form1-e\" class=\"btn btn-secondary display-7\">Сделать подарок себе и ребенку</a>",
-                "image": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-02-27%20%D0%B2%2022.39.05-455x491.png",
-                "thumb": "@PROJECT_PATH@/assets/images/2018-02-27-22.39.05-455x491-455x491.png",
+                "image": "@PROJECT_PATH@/assets/images/-2018-03-05-12.45.25-493x451.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-03-05-12.45.25-493x451-493x451.png",
                 "customStyle5": "display-5",
                 "customStyle7": "display-7",
                 "customStyleTags": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "BusyBord",
@@ -2260,14 +2260,14 @@
                 "onSale": false,
                 "oldPrice": true,
                 "itemTitle": "Бизидом \"Большой\"&nbsp;",
-                "itemDescription": "<p>Четыре стандартных стенки</p><p><br></p><p>Модуль \"Открыватель\" - Дверки с различными замочками</p><p>Модуль \"Исследователь\" - Шестерёнки, валик, вращающиеся карточки, блок лампочек с розеткой и выключателем</p><p>Модуль \"Первопроходец\" - Лабиринты различной сложности, яркие счеты и штанга с кучей металлических гаек, которые можно двигать.</p><p>Модуль \"Дизайнер\" - Застежки, шнурки, пуговицы - всё, что научит Вашего малыша одеваться самостоятельно</p><p><br></p><p>И два из четырех модулей крыши на выбор</p><p><br></p><p>Модуль \"Математик\" - Математический планшет для рисования резиночками. Невероятно развивает фантазию</p><p>Модуль \"Художник\" - Меловая доска для рисования. Набор мелков в комплекте</p><p>Модуль \"Часовщик\" - Часы и геометрический сортер</p><p>Модуль \"Счетовод\" - Большой логический сортировщик.</p>",
+                "itemDescription": "<p>Размеры домика 38*38*60</p><p>Модуль \"Открыватель\" - Дверки с различными замочками<br></p><p>Модуль \"Исследователь\" - Шестерёнки, валик, вращающиеся карточки, блок лампочек с розеткой и выключателем</p><p>Модуль \"Первопроходец\" - Лабиринты различной сложности, яркие счеты и штанга с кучей металлических гаек, которые можно двигать.</p><p>Модуль \"Дизайнер\" - Застежки, шнурки, пуговицы - всё, что научит Вашего малыша одеваться самостоятельно</p><p>Модуль \"Математик\" - Математический планшет для рисования резиночками. Невероятно развивает фантазию<br></p><p>Модуль \"Художник\" - Меловая доска для рисования. Набор мелков в комплекте</p><p>Модуль \"Часовщик\" - Часы и геометрический сортер</p><p>Модуль \"Счетовод\" - Большой логический сортировщик.</p>",
                 "itemPriceTitle": "From: ",
                 "itemPrice": "8490 руб",
                 "oldPriceValue": "&nbsp;9890 руб",
                 "sale": "-50%",
                 "button": "<a data-app-btn=\"true\" href=\"index.html#form1-e\" class=\"btn btn-secondary display-7\">Сделать подарок себе и ребенку</a>",
-                "image": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-02-27%20%D0%B2%2022.29.24-490x497.png",
-                "thumb": "@PROJECT_PATH@/assets/images/2018-02-27-22.29.24-490x497-490x497.png",
+                "image": "@PROJECT_PATH@/assets/images/-2018-03-05-12.45.51-548x496.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-03-05-12.45.51-548x496-548x496.png",
                 "customStyle5": "display-5",
                 "customStyle7": "display-7",
                 "customStyleTags": "display-7",
@@ -2280,19 +2280,19 @@
                 "onSale": false,
                 "oldPrice": true,
                 "itemTitle": "Бизиборд Домик \"Смайлик\"&nbsp;",
-                "itemDescription": "<p>Бизиборд Домик \"Смайлик\" для активного интеллектуального развития малыша от 8 месяцев до 5 лет.</p><p>Более 30 игровых элементов!</p><p><br></p><p>- Бизидом со светом, светильник на крыше</p><p>- Внутри окошек картинка с изображением 4-х животных (картинку можно менять)</p><p>- Наличие окошек и дверей на замочках - развитие логики и смекалки.</p><p>- Доска для рисования мелом</p><p>- Застежки, шнуровки обучат малыша ловкости.</p><p>- Фигурка-пазл помогает развить логику и память</p><p>- Большое внутреннее пространство можно использовать для игр и хранения любимых игрушек.</p><p><br></p><p>Фабричное производство.&nbsp;</p><p>Гарантия 6 мес.</p><p>.<br></p>",
+                "itemDescription": "<p>Размеры домика &nbsp;40*30*40</p><p>Бизиборд Домик \"Смайлик\" для интеллектуального развития малыша от 8 месяцев до 5 лет.</p><p>Более 30 игровых элементов!</p><p>- Бизидом со светом, светильник на крыше</p><p>- Внутри окошек картинка с изображением 4-х животных (картинку можно менять)</p><p>- Наличие окошек и дверей на замочках - развитие логики и смекалки.</p><p>- Доска для рисования мелом</p><p>- Застежки, шнуровки обучат малыша ловкости.</p><p>- Фигурка-пазл помогает развить логику и память</p><p>- Большое внутреннее пространство можно использовать для игр и хранения любимых игрушек.</p>",
                 "itemPriceTitle": "From: ",
                 "itemPrice": "5950 руб",
                 "oldPriceValue": "&nbsp;6990 руб",
                 "sale": "-50%",
                 "button": "<a data-app-btn=\"true\" href=\"index.html#form1-e\" class=\"btn btn-secondary display-7\">Сделать подарок себе и ребенку</a>",
-                "image": "@PROJECT_PATH@/assets/images/8-760x550.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/8-760x550-760x550.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2018-03-05-12.54.53-739x665.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-03-05-12.54.53-739x665-739x665.png",
                 "customStyle5": "display-5",
                 "customStyle7": "display-7",
                 "customStyleTags": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "BusyBord",
@@ -2305,7 +2305,7 @@
                 "itemPrice": "3590 руб",
                 "oldPriceValue": "&nbsp;4490 руб",
                 "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" href=\"index.html#form1-e\" class=\"btn btn-secondary display-7 note-editable note-air-editor\">Купить</a>",
+                "button": "<a data-app-btn=\"true\" href=\"index.html#form1-e\" class=\"btn btn-secondary display-7 note-editable\">Купить</a>",
                 "image": "@PROJECT_PATH@/assets/images/blue-1-869x768.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/blue-1-869x768-800x707.jpg",
                 "customStyle5": "display-5",
@@ -2526,7 +2526,7 @@
                 "oldPriceValue": "&nbsp;2990 руб",
                 "sale": "-50%",
                 "button": "<a data-app-btn=\"true\" href=\"index.html#form1-e\" class=\"btn btn-secondary display-7\">Сделать подарок себе и ребенку</a>",
-                "image": "@PROJECT_PATH@/assets/images/mol-blue-867x768.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mol_blue-867x768.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mol-blue-867x768-800x708.jpg",
                 "customStyle5": "display-5",
                 "customStyle7": "display-7",
@@ -2547,12 +2547,90 @@
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
             },
-            "p": {
-              "color": "#767676"
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
             },
-            ".content-row": {
-              "& when (@reverseContent)": {
-                "flex-direction": "row-reverse"
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background-color": "@overlayColor1",
+              "& when (@gradientOverlay)": {
+                "background": "linear-gradient(180deg, @overlayColor1, @overlayColor2)"
+              },
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out"
+            },
+            ".icon-focus": {
+              "display": "none"
+            },
+            ".mbr-gallery-title": {
+              "transition": "all 0.5s ease",
+              "position": "absolute",
+              "text-align": "right",
+              "display": "none",
+              "width": "100%",
+              "bottom": "0",
+              "right": "0",
+              "padding": "1rem",
+              "color": "#000000",
+              "font-weight": "bold",
+              "background": "transparent",
+              "-webkit-transition": "all 0.5s ease",
+              "-moz-transition": "all 0.5s ease",
+              "-o-transition": "all 0.5s ease",
+              "-ms-transition": "all 0.5s ease"
+            },
+            "ul": {
+              "font-size": "0"
+            },
+            ".mbr-gallery-filter ul li .btn": {
+              "border": "none",
+              "background-color": "transparent",
+              "color": "@tagsColor !important",
+              "padding": "0.5rem 1rem 0.6rem",
+              "border-radius": "0",
+              "margin": "0!important",
+              "transition": "padding, border 0s, transform .2s"
+            },
+            ".mbr-gallery-filter ul li .btn.active": {
+              "padding": "0.5rem 1rem 0.5rem",
+              "border-radius": "0 !important"
+            },
+            ".mbr-gallery-filter ul li .btn.active:after": {
+              "content": "''",
+              "position": "absolute",
+              "bottom": "0",
+              "left": "0",
+              "width": "100%",
+              "height": "1px",
+              "background": "linear-gradient(90deg, @primaryColor, @secondaryColor)"
+            },
+            ".mbr-gallery-filter ul li": {
+              "padding": "0"
+            },
+            ".mbr-gallery-item > div:hover": {
+              ".mbr-gallery-title": {
+                "padding-bottom": "1.5rem",
+                "display": "block"
+              },
+              "&:before": {
+                "opacity": "@overlayOpacityItem !important"
               }
             },
             ".underline": {
@@ -2565,53 +2643,90 @@
                 "display": "inline-block"
               }
             },
-            "@media (min-width: 1500px)": {
-              ".text-content": {
-                "padding": "5rem"
+            ".btn": {
+              "background": "none",
+              "border-radius": "0 !important",
+              "&:hover": {
+                "background": "transparent !important",
+                "&:before": {
+                  "background": "transparent !important"
+                }
               },
-              ".media-content": {
-                "padding-right": "5rem",
-                "& when (@reverseContent)": {
-                  "padding-right": "0",
-                  "padding-left": "5rem"
-                }
-              }
-            },
-            "@media (max-width: 1499px) and (min-width: 768px)": {
-              ".text-content": {
-                "padding": "3rem"
-              }
-            },
-            "@media (max-width: 1499px) and (min-width: 991px)": {
-              ".media-content": {
-                "padding-right": "3rem",
-                "& when (@reverseContent)": {
-                  "padding-right": "0",
-                  "padding-left": "3rem"
-                }
-              }
-            },
-            "@media (max-width: 767px)": {
-              ".text-content": {
-                "padding": "2rem 1rem"
-              }
-            },
-            "@media (max-width: 991px)": {
-              ".content-row": {
-                "& when (@reverseContent)": {
-                  "-webkit-flex-direction": "column-reverse"
-                }
+              "&:before": {
+                "background-color": "transparent !important"
+              },
+              "&:focus": {
+                "box-shadow": "none"
               }
             }
           },
-          "_name": "features4",
-          "_customHTML": "<section class=\"features4\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Underline\" name=\"showUnderline\" checked condition=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>    \n        <input type=\"checkbox\" title=\"Media on Right/Left\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=kI1YE_qenSU\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container-fluid\">   \n        <div class=\"row content-row align-items-center\">\n            <div class=\"col-lg-6 text-content\">\n                <h2 class=\"mbr-title pt-2 mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".underline,.mbr-title\">Доставка и оплата</h2>\n                <div class=\"underline align-center\" mbr-if=\"showUnderline && showTitle\">\n                    <div class=\"line\"></div>\n                </div>\n                <div class=\"mbr-section-text\">\n                    <p class=\"mbr-text pt-3 mbr-light mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text,.mbr-section-btn\">Доставка по всей России.<br><br>Оплата при получении.<br></p>\n                </div>\n                <div class=\"mbr-section-btn pt-3 align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-success\" href=\"page1.html#form1-m\">Купить</a></div>\n            </div>\n            <div class=\"col-lg-6 media-content\">\n                <div mbr-video class=\"mbr-figure\">\n                    <iframe src=\"https://www.youtube.com/watch?v=zfzJFVmI_9I&loop=0&autoplay=0\"></iframe>\n                </div>\n            </div>\n        </div>\n    </div>          \n</section>",
-          "_cid": "qKLxeXfi67",
-          "_anchor": "features4-s",
-          "_protectedParams": [],
+          "_name": "gallery1",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,Slider,BootstrapCarouselSwipe,Gallery,VimeoVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <!-- <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked> -->\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Underline\" name=\"showUnderline\" checked condition=\"showTitle\">\n        <input type=\"color\" title=\"Overlay Color 1\" name=\"overlayColor1\" value=\"#ffffff\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradientOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#44f7b3\" condition=\"gradientOverlay\">\n        <input type=\"range\" title=\"Items Overlay Opacity\" name=\"overlayOpacityItem\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" inline>\n        <input type=\"color\" title=\"Tags Color\" name=\"tagsColor\" value=\"#232323\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <h2 class=\"align-center mbr-fonts-style mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title,.underline\">Видео обзоры наших бизибордов</h2>\n    <div class=\"underline align-center\" mbr-if=\"showUnderline && showTitle\">\n        <div class=\"line\"></div>\n    </div>\n<!--     <div mbr-class=\"{'container': !fullWidth}\"> -->\n        <div class=\"col-left-gallery\" mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\"></div>\n   <!--  </div> -->\n</section>",
+          "_cid": "qLqsvXGQMf",
+          "_protectedParams": [
+            "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
+            "gallery"
+          ],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {
+            "text_all": "All",
+            "gallery__filtersTextStyle": "display-4",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
+            "gallery": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-1-16-13-41-700454.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Uhy2UODclHs",
+                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-1-16-14-25-22423.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/sf7GWYOpL30",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-1-16-15-13-726926.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=zfzJFVmI_9I&loop=0&autoplay=0",
+                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-1-16-17-18-717169.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/gf8qo6Cf3S0",
+                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-z"
         },
         {
           "_name": "form1",
@@ -2750,7 +2865,7 @@
             }
           },
           "_name": "footer2",
-          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJBVrOxJAvlkYRnZjjFw7Wd5E\" value=\"южное шоссе д 50\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\" selected=\"\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content mbr-white\">\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\">\n                    <strong>Офис</strong>\n                    <br>\n                    <br>Россия 192241 г. Санкт-Петербург,<br>Южное шоссе д 50<br>\n                    <br>\n                    <br><b>Контакты</b><br>\n                    ООО \"Регион Фонд\"<br>Email: &nbsp;sale@allbids.ru<br>Phone: &nbsp;8(800)301-20-88<br><br><br><br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\"><br><br></p>\n            </div>\n            <div class=\"col-12 col-md-6\">\n                <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">© Copyright 2017 Mobirise - All Rights Reserved</p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJBVrOxJAvlkYRnZjjFw7Wd5E\" value=\"южное шоссе д 50\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\" selected>5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content mbr-white\">\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\">\n                    <strong>Офис</strong>\n                    <br>\n                    <br>Россия 192241 г. Санкт-Петербург,<br>Южное шоссе д 50<br>\n                    <br>\n                    <br><b>Контакты</b><br>\n                    ООО \"Регион Фонд\"<br>Email: &nbsp;sale@allbids.ru<br>Phone: &nbsp;8(800)301-20-88<br><br><br><br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\"><br><br></p>\n            </div>\n            <div class=\"col-12 col-md-6\">\n                <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">© Copyright 2017 Mobirise - All Rights Reserved</p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "footer2-q",
           "_isUserblock": true,
           "_cid": "qKk15C5RiH",
